@@ -1,0 +1,17 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! DO NOT Upgrade VCE Player !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+VCE Testing Engine functions as a realistic simulation of the actual certification exam.
+
+You need use "VCE Player" to run .VCE format file on Windows OS.
+
+1. Download "VCE Player" from http://www.examgod.com/VCEPlayer.zip
+2. Unzip the "VCEPlayer.zip" file, then use "player.exe" to open .VCE format file.
+
+---------------------------------------------------------------------------------------
+Important Note: !!!!! Please Don't upgrade the "VCE Player" to new version. !!!!
+If you upgrade it to new version then you will be require to purchase software licenses.
+---------------------------------------------------------------------------------------
+
+* VCE Mobile for Android from http://www.examgod.com/VCE-Android.zip
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! DO NOT Upgrade VCE Player !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
